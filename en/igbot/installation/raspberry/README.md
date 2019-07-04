@@ -5,7 +5,7 @@
 Run `sudo apt-get install chromium-browser`
 
 ## 2. Install Node v10
-`sudo apt-get install nodejs npm`
+Run `sudo apt-get install nodejs npm`
 
 ## 4. Run
 1. Download [latest bot version](https://github.com/social-manager-tools/socialmanagertools-igbot/archive/master.zip) and extract it.

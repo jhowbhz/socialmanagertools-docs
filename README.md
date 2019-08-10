@@ -10,18 +10,19 @@ If you want read documentation offline:
 4. Run `npm run docs`
 
 ### 🎁 Support: Donate
-[![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](http://paypal.ptkdev.io) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](http://patreon.ptkdev.io) [![](https://img.shields.io/badge/donate-opencollective-5DA4F9.svg)](http://opencollective.ptkdev.io) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](http://coffee.ptkdev.io)
+[![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](https://ko-fi.com/ptkdev)
 
-## 👑 Sponsors (max 10 available)
-Support this project by becoming a sponsor. 🙏 Become a sponsor on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor). Your logo will show up here with a link to your website.
+![](https://img.shields.io/badge/bitcoin-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg) ![](https://img.shields.io/badge/ethereum-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg)
 
-[![](https://opencollective.com/social-manager-tools/sponsor/0/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/0/website) [![](https://opencollective.com/social-manager-tools/sponsor/1/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/1/website) [![](https://opencollective.com/social-manager-tools/sponsor/2/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/2/website) [![](https://opencollective.com/social-manager-tools/sponsor/3/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/3/website) [![](https://opencollective.com/social-manager-tools/sponsor/4/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/4/website) [![](https://opencollective.com/social-manager-tools/sponsor/5/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/5/website) [![](https://opencollective.com/social-manager-tools/sponsor/6/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/6/website) [![](https://opencollective.com/social-manager-tools/sponsor/7/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/7/website) [![](https://opencollective.com/social-manager-tools/sponsor/8/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/8/website) [![](https://opencollective.com/social-manager-tools/sponsor/9/avatar.svg)](https://opencollective.com/social-manager-tools/sponsor/9/website)
+## 👑 Sponsors
+Support this project by becoming a sponsor. 🙏 Become a sponsor on [patreon](https://www.patreon.com/join/ptkdev) or become top3 sponsor on [ko-fi](https://ko-fi.com/ptkdev). Your logo will show up here with a link to your website.
+
+[![](https://api.ptkdev.io/backers/sponsor1.png)](https://api.ptkdev.io/backers/sponsor1.html) [![](https://api.ptkdev.io/backers/sponsor2.png)](https://api.ptkdev.io/backers/sponsor2.html) [![](https://api.ptkdev.io/backers/sponsor-kofi1.png)](https://api.ptkdev.io/backers/sponsor-kofi1.html) [![](https://api.ptkdev.io/backers/sponsor-kofi2.png)](https://api.ptkdev.io/backers/sponsor-kofi2.html) [![](https://api.ptkdev.io/backers/sponsor-kofi3.png)](https://api.ptkdev.io/backers/sponsor-kofi3.html) [![](https://api.ptkdev.io/backers/sponsor3.png)](https://api.ptkdev.io/backers/sponsor3.html) [![](https://api.ptkdev.io/backers/sponsor4.png)](https://api.ptkdev.io/backers/sponsor4.html) [![](https://api.ptkdev.io/backers/sponsor5.png)](https://api.ptkdev.io/backers/sponsor5.html) [![](https://api.ptkdev.io/backers/sponsor6.png)](https://api.ptkdev.io/backers/sponsor6.html) [![](https://api.ptkdev.io/backers/sponsor7.png)](https://api.ptkdev.io/backers/sponsor7.html) [![](https://api.ptkdev.io/backers/sponsor8.png)](https://api.ptkdev.io/backers/sponsor8.html) [![](https://api.ptkdev.io/backers/sponsor9.png)](https://api.ptkdev.io/backers/sponsor9.html) [![](https://api.ptkdev.io/backers/sponsor10.png)](https://api.ptkdev.io/backers/sponsor10.html) [![](https://api.ptkdev.io/backers/sponsor11.png)](https://api.ptkdev.io/backers/sponsor11.html) [![](https://api.ptkdev.io/backers/sponsor12.png)](https://api.ptkdev.io/backers/sponsor12.html) [![](https://api.ptkdev.io/backers/sponsor13.png)](https://api.ptkdev.io/backers/sponsor13.html) [![](https://api.ptkdev.io/backers/sponsor14.png)](https://api.ptkdev.io/backers/sponsor14.html) [![](https://api.ptkdev.io/backers/sponsor15.png)](https://api.ptkdev.io/backers/sponsor15.html)
 
 ## 🦄 Backers
-Thank you to all our backers! 🙏 Become a backer on [patreon](http://patreon.ptkdev.io) or [opencollective](https://opencollective.com/social-manager-tools#sponsor)
+Thank you to all our backers! 🙏 Become a backer on [patreon](https://www.patreon.com/join/ptkdev).
 
-[![Twitch: prattquellolive](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/patreon/prattquello.png)](https://www.twitch.tv/prattquellolive) [![JavaScript Room](https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-docs/master/.github/assets/patreon/jsroom.png)]() [![](https://opencollective.com/social-manager-tools/backers.svg?width=890)](https://opencollective.com/social-manager-tools#backers)
-
+[![](https://api.ptkdev.io/backers/backer1.png)](https://api.ptkdev.io/backers/backer1.html) [![](https://api.ptkdev.io/backers/backer2.png)](https://api.ptkdev.io/backers/backer2.html) [![](https://api.ptkdev.io/backers/backer3.png)](https://api.ptkdev.io/backers/backer3.html) [![](https://api.ptkdev.io/backers/backer4.png)](https://api.ptkdev.io/backers/backer4.html) [![](https://api.ptkdev.io/backers/backer5.png)](https://api.ptkdev.io/backers/backer5.html) [![](https://api.ptkdev.io/backers/backer6.png)](https://api.ptkdev.io/backers/backer6.html) [![](https://api.ptkdev.io/backers/backer7.png)](https://api.ptkdev.io/backers/backer7.html) [![](https://api.ptkdev.io/backers/backer8.png)](https://api.ptkdev.io/backers/backer8.html) [![](https://api.ptkdev.io/backers/backer9.png)](https://api.ptkdev.io/backers/backer9.html) [![](https://api.ptkdev.io/backers/backer10.png)](https://api.ptkdev.io/backers/backer10.html) [![](https://api.ptkdev.io/backers/backer11.png)](https://api.ptkdev.io/backers/backer11.html) [![](https://api.ptkdev.io/backers/backer12.png)](https://api.ptkdev.io/backers/backer12.html) [![](https://api.ptkdev.io/backers/backer13.png)](https://api.ptkdev.io/backers/backer13.html) [![](https://api.ptkdev.io/backers/backer14.png)](https://api.ptkdev.io/backers/backer14.html) [![](https://api.ptkdev.io/backers/backer15.png)](https://api.ptkdev.io/backers/backer15.html)
 
 ## ❤️ Contributing
 I 💟 contributions! I will happily accept your pull request! Examples, Documentation, Translations and grammatical corrections (GrammarNazi you are welcome! Yes my English is bad, sorry). Remember to insert your name in `.all-contributorsrc` and `package.json` file.
@@ -35,6 +36,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 > 💰 In the future, if the donations allow it, I would like to share some of the success with those who helped me the most. For me open source is share of code, share development knowledges and share donations!
+
+## 📲 Tools
+[![](https://img.shields.io/badge/portfolio-ptkdev-000000.svg)](https://ptk.dev/)
+[![](https://img.shields.io/badge/app-meingifs-E1215B.svg)](https://meingifs.pics/)
+[![](https://img.shields.io/badge/stickers-ptkdev-128C7E.svg)](https://stickers.ptkdev.io/)
+
+[![](https://img.shields.io/badge/app-social%20manager%20tools-ff7f19.svg)](http://socialmanager.tools/)
+[![](https://img.shields.io/badge/api-instagram%20bot-895a4d.svg)](https://github.com/social-manager-tools/socialmanagertools-igbot)
+[![](https://img.shields.io/badge/api-twitter%20bot-21B7F4.svg)](https://github.com/social-manager-tools/socialmanagertools-twbot)
+[![](https://img.shields.io/badge/api-facebook%20bot-3b5998.svg)](https://github.com/social-manager-tools/socialmanagertools-fbbot)
+[![](https://img.shields.io/badge/telegram%20bot-feed%20rss%20for%20wordpress%20&amp;%20medium-00AB6C.svg)](https://github.com/social-manager-tools/socialmanagertools-tgbot)
+
 
 ## 💫 License
 * Documentation and Contributions have **CC BY 4.0 License**
